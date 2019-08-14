@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Rp_Importexportattributes",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "This extension will import/export attributes and its values.",
+    "authors": [
+    {
+        "name": "Mage Rips",
+        "email": "rpmagerips@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
